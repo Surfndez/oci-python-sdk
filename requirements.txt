@@ -1,11 +1,11 @@
 certifi
 configparser==3.5.0
 coverage==4.5.2
-cryptography==2.5
+cryptography==46.0.7
 flake8==3.6.0
 mock==2.0.0
-pyOpenSSL==18.0.0
-pytest==4.1.0
+pyOpenSSL==26.0.0
+pytest==9.0.3
 pytest-cov==2.6.1
 python-dateutil>=2.5.3,<=2.7.3
 pytz>=2016.10
@@ -13,4 +13,4 @@ sphinx-rtd-theme==0.4.2
 sphinx==1.8.3
 tox==3.6.1
 vcrpy==2.0.1
-wheel==0.32.3
+wheel==0.38.1
